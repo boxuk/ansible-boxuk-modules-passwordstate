@@ -1,0 +1,6 @@
+ansible
+unittest2
+pyyaml
+pytest
+mock
+ddt
