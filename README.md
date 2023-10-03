@@ -1,3 +1,7 @@
+# Important
+
+**This repository is unmaintained**
+
 [![Build Status](https://travis-ci.org/boxuk/ansible-boxuk-modules-passwordstate.svg)](https://travis-ci.org/boxuk/ansible-boxuk-modules-passwordstate)
 
 # Ansible PasswordState Modules
